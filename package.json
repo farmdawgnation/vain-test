@@ -13,7 +13,7 @@
     "body-parser": "~1.0.0",
     "debug": "~0.7.4",
     "jade": "~1.3.0",
-    "vain": "git://github.com/farmdawgnation/vain-node.git",
+    "vain": "0.2.0",
     "errorhandler": "*"
   }
 }
