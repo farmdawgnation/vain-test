@@ -1,19 +1,19 @@
 {
-  "name": "vain-test",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "name":"vain-test",
+  "version":"0.0.1",
+  "private":true,
+  "scripts":{
+    "start":"node ./bin/www"
   },
-  "dependencies": {
-    "express": "~4.2.0",
-    "static-favicon": "~1.0.0",
-    "morgan": "~1.0.0",
-    "cookie-parser": "~1.0.1",
-    "body-parser": "~1.0.0",
-    "debug": "~0.7.4",
-    "jade": "~1.3.0",
-    "vain": "0.2.0",
-    "errorhandler": "*"
+  "dependencies":{
+    "body-parser":"~1.0.0",
+    "jade":"~1.3.0",
+    "vain":"0.2.0",
+    "static-favicon":"~1.0.0",
+    "cookie-parser":"~1.0.1",
+    "debug":"~0.7.4",
+    "morgan":"~1.0.0",
+    "errorhandler":"*",
+    "express":"4.8.4"
   }
 }
